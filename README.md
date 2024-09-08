@@ -1,4 +1,4 @@
-# Program iz NWPa: Statički proracun proste grede
+# Program iz NWPa: Statički proračun proste grede
 
 Program je namijenjen za proračun djelovanja na prostoj gredi.
 
